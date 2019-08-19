@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>police.png</file>
+        <file>chor.png</file>
+        <file>black_chor.png</file>
+        <file>Background_home.jpg</file>
+        <file>Backgroung_play.jpg</file>
+    </qresource>
+</RCC>
